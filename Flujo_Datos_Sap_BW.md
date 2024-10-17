@@ -1,3 +1,8 @@
+---
+title: markmap
+markmap:
+  colorFreezeLevel: 2
+---
 # Flujo de Datos en SAP BW
 
 ## 1. Fuente de Datos (DataSource)
